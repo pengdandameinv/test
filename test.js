@@ -10,3 +10,5 @@ new Promise(function(resolve, reject){
 })
 
 console.log(4);
+
+console.log(5);
